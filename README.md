@@ -1,4 +1,4 @@
-#GAB workshop: Biodiversity & Spatial Analysis
+#GAB workshop: Biodiversity & Spatial Analysis#
 
 This workshop will introduce concepts and methods for mapping spatial patterns of biological diversity. It will consider the meaning, measurement and use of diversity metrics such as phylogenetic diversity and endemism. Through
 prepared examples, participants will learn how to link spatial and phylogenetic data for a group of species to both visualise and measure the spatial component of evolution, for example to identify areas with distinct or unique biota.
