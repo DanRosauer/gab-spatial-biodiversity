@@ -8,4 +8,4 @@ The software **[Biodiverse](http://shawnlaffan.github.io/biodiverse/ "Biodiverse
 For those who want to do the exercises in this workshop, please install *Biodiverse* in advance.
 
 + Visit the *[Biodiverse](http://shawnlaffan.github.io/biodiverse/ "Biodiverse Homepage")* site, click *download*
-+ Choose the stable release (*Biodiverse 3.0*) for your operating system: *Windows*, *Mac* or *Linux*ting system, *Windows*, *Mac* or *Linux*
++ Choose the stable release (*Biodiverse 3.0*) for your operating system: *Windows*, *Mac* or *Linux*.
